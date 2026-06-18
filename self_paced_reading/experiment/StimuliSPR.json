@@ -23,60 +23,74 @@
         "word_sequence": 3
       },
       {
-        "form": "passages,",
+        "form": "passages",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
+        "form": "was",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "written,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
         "form": "author",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 6
+        "word_sequence": 9
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 7
+        "word_sequence": 10
       },
       {
         "form": "publish",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 8
+        "word_sequence": 11
       },
       {
         "form": "a",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "new",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 12
       },
       {
         "form": "book",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 13
       }
     ],
     "type": "critical",
@@ -220,74 +234,88 @@
         "word_sequence": 3
       },
       {
-        "form": "passages,",
+        "form": "passages",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "a",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "new",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
+        "form": "written,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "a",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
         "form": "book",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 7
+        "word_sequence": 9
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 8
+        "word_sequence": 10
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 9
+        "word_sequence": 11
       },
       {
         "form": "published",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 12
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 13
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 14
       },
       {
         "form": "author",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -357,60 +385,53 @@
         "word_sequence": 8
       },
       {
-        "form": "new",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
         "form": "book",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 9
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 10
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 11
       },
       {
         "form": "published",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 13
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       },
       {
         "form": "author",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -445,60 +466,81 @@
         "word_sequence": 3
       },
       {
-        "form": "marbles,",
+        "form": "marbles",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "girl",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "bought,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
-      },
-      {
-        "form": "shake",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "girl",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "shake",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
       },
       {
         "form": "jar",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 13
       },
       {
         "form": "violently",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -642,74 +684,95 @@
         "word_sequence": 3
       },
       {
-        "form": "marbles,",
+        "form": "marbles",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "jar",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "bought,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
-      },
-      {
-        "form": "be",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
-        "form": "violently",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "shaken",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "jar",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "violently",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 12
+      },
+      {
+        "form": "shaken",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
       },
       {
         "form": "girl",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -860,28 +923,28 @@
         "word_sequence": 2
       },
       {
-        "form": "ice",
+        "form": "meringue",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "cream",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "and",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "meringue,",
+        "form": "prepared,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -923,18 +986,11 @@
         "word_sequence": 11
       },
       {
-        "form": "baked",
+        "form": "dessert",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
-      },
-      {
-        "form": "Alaska",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 13
       }
     ],
     "type": "critical",
@@ -962,102 +1018,81 @@
         "word_sequence": 2
       },
       {
-        "form": "ice",
+        "form": "meringue",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "cream",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "and",
+        "form": "she",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "meringue",
+        "form": "prepared,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "that",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "she",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
-        "form": "prepared,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
         "form": "baker",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 8
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 9
       },
       {
         "form": "present",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 10
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 11
       },
       {
         "form": "baked",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 12
       },
       {
         "form": "Alaska",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 13
       }
     ],
     "type": "critical",
@@ -1085,28 +1120,28 @@
         "word_sequence": 2
       },
       {
-        "form": "ice",
+        "form": "meringue",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "cream",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "and",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "meringue,",
+        "form": "prepared,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -1120,60 +1155,53 @@
         "word_sequence": 7
       },
       {
-        "form": "baked",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
-        "form": "Alaska",
+        "form": "dessert",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 9
+        "word_sequence": 8
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 9
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 10
       },
       {
         "form": "presented",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 11
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 13
       },
       {
         "form": "baker",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -1201,116 +1229,88 @@
         "word_sequence": 2
       },
       {
-        "form": "ice",
+        "form": "meringue",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "cream",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "and",
+        "form": "she",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "meringue",
+        "form": "prepared,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "that",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "she",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
-        "form": "prepared,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "baked",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
-        "form": "Alaska",
+        "form": "dessert",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 8
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 9
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 10
       },
       {
         "form": "presented",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 11
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 13
       },
       {
         "form": "baker",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -1352,60 +1352,81 @@
         "word_sequence": 4
       },
       {
-        "form": "texts,",
+        "form": "texts",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "student",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "unearthed,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
-      },
-      {
-        "form": "study",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "student",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "study",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
       },
       {
         "form": "tome",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 14
       },
       {
         "form": "carefully",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -1468,81 +1489,60 @@
         "word_sequence": 7
       },
       {
-        "form": "unearthed",
+        "form": "unearthed,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "at",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "temple,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
-      },
-      {
         "form": "student",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 10
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 11
       },
       {
         "form": "study",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 13
       },
       {
         "form": "tome",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 14
       },
       {
         "form": "carefully",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -1584,74 +1584,95 @@
         "word_sequence": 4
       },
       {
-        "form": "texts,",
+        "form": "texts",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "tome",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "unearthed,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
-      },
-      {
-        "form": "be",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "studied",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "carefully",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "tome",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "studied",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 13
+      },
+      {
+        "form": "carefully",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
       },
       {
         "form": "student",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 17
       }
     ],
     "type": "critical",
@@ -1714,95 +1735,74 @@
         "word_sequence": 7
       },
       {
-        "form": "unearthed",
+        "form": "unearthed,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "at",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "temple,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
-      },
-      {
         "form": "tome",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 10
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 11
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 12
       },
       {
         "form": "studied",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 13
       },
       {
         "form": "carefully",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 14
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 15
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 19
+        "word_sequence": 16
       },
       {
         "form": "student",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 20
+        "word_sequence": 17
       }
     ],
     "type": "critical",
@@ -1830,67 +1830,102 @@
         "word_sequence": 2
       },
       {
-        "form": "clean",
+        "form": "energy",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "energy,",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "environmentalist",
-        "region": "critical",
+        "form": "harvested",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "from",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "love",
-        "region": "spillover_2",
+        "form": "solar",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "his",
+        "form": "panels,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "car",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
+        "form": "environmentalist",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "love",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "his",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "car",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
         "form": "deeply",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -1918,109 +1953,102 @@
         "word_sequence": 2
       },
       {
-        "form": "clean",
+        "form": "energy",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "energy",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "that",
+        "form": "he",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "he",
+        "form": "harvested",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "harvested",
+        "form": "from",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "from",
+        "form": "solar",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "solar",
+        "form": "panels,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "panels,",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
         "form": "environmentalist",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 11
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       },
       {
         "form": "love",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 13
       },
       {
         "form": "his",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       },
       {
         "form": "car",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 15
       },
       {
         "form": "deeply",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -2048,81 +2076,116 @@
         "word_sequence": 2
       },
       {
-        "form": "clean",
+        "form": "energy",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "energy,",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "car",
-        "region": "critical",
+        "form": "harvested",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "from",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "be",
-        "region": "spillover_2",
+        "form": "solar",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "loved",
+        "form": "panels,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "deeply",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
+        "form": "car",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "loved",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "deeply",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 16
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 17
       },
       {
         "form": "environmentalist",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 18
       }
     ],
     "type": "critical",
@@ -2150,123 +2213,116 @@
         "word_sequence": 2
       },
       {
-        "form": "clean",
+        "form": "energy",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "energy",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "that",
+        "form": "he",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "he",
+        "form": "harvested",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "harvested",
+        "form": "from",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "from",
+        "form": "solar",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "solar",
+        "form": "panels,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "panels,",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
         "form": "car",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 11
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 13
       },
       {
         "form": "loved",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       },
       {
         "form": "deeply",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 15
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 16
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 17
       },
       {
         "form": "environmentalist",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 19
+        "word_sequence": 18
       }
     ],
     "type": "critical",
@@ -2294,74 +2350,102 @@
         "word_sequence": 2
       },
       {
-        "form": "slippery",
+        "form": "red",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "red",
+        "form": "clay",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "clay,",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "the",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "artist",
-        "region": "critical",
+        "form": "bought",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "in",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "admire",
-        "region": "spillover_2",
+        "form": "New",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "the",
+        "form": "Mexico,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "handmade",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
+        "form": "artist",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "admire",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
         "form": "flowerpot",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -2389,116 +2473,102 @@
         "word_sequence": 2
       },
       {
-        "form": "slippery",
+        "form": "red",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "red",
+        "form": "clay",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "clay",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "that",
+        "form": "he",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "he",
+        "form": "bought",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "bought",
+        "form": "in",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "in",
+        "form": "New",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "New",
+        "form": "Mexico,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "Mexico,",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
-      },
-      {
         "form": "artist",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 13
       },
       {
         "form": "admire",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
-      },
-      {
-        "form": "handmade",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 15
       },
       {
         "form": "flowerpot",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -2526,88 +2596,116 @@
         "word_sequence": 2
       },
       {
-        "form": "slippery",
+        "form": "red",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "red",
+        "form": "clay",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "clay,",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "the",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "handmade",
+        "form": "bought",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "flowerpot",
-        "region": "critical",
+        "form": "in",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "New",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "be",
-        "region": "spillover_2",
+        "form": "Mexico,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
-      },
-      {
-        "form": "admired",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "flowerpot",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 13
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "admired",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
       },
       {
         "form": "artist",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 18
       }
     ],
     "type": "critical",
@@ -2635,130 +2733,116 @@
         "word_sequence": 2
       },
       {
-        "form": "slippery",
+        "form": "red",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "red",
+        "form": "clay",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "clay",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "that",
+        "form": "he",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "he",
+        "form": "bought",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "bought",
+        "form": "in",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "in",
+        "form": "New",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "New",
+        "form": "Mexico,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "Mexico,",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
-      },
-      {
-        "form": "handmade",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 13
-      },
-      {
         "form": "flowerpot",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 12
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 13
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 14
       },
       {
         "form": "admired",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 15
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 16
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 19
+        "word_sequence": 17
       },
       {
         "form": "artist",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 20
+        "word_sequence": 18
       }
     ],
     "type": "critical",
@@ -2821,60 +2905,81 @@
         "word_sequence": 7
       },
       {
-        "form": "hall,",
+        "form": "hall",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "salesman",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "demolished,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
-      },
-      {
-        "form": "market",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "salesman",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 13
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "market",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
       },
       {
         "form": "new",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 17
       },
       {
         "form": "skyscraper",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 18
       }
     ],
     "type": "critical",
@@ -2958,74 +3063,60 @@
         "word_sequence": 10
       },
       {
-        "form": "demolished",
+        "form": "demolished,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "last",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
       },
       {
-        "form": "year,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 13
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 14
-      },
-      {
         "form": "salesman",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 13
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 14
       },
       {
         "form": "market",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 15
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 16
       },
       {
         "form": "new",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 19
+        "word_sequence": 17
       },
       {
         "form": "skyscraper",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 20
+        "word_sequence": 18
       }
     ],
     "type": "critical",
@@ -3088,74 +3179,88 @@
         "word_sequence": 7
       },
       {
-        "form": "hall,",
+        "form": "hall",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "new",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "skyscraper",
-        "region": "critical",
+        "form": "demolished,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
-      },
-      {
-        "form": "will",
-        "region": "spillover_1",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
-      },
-      {
-        "form": "be",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 13
-      },
-      {
-        "form": "marketed",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 14
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 15
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "skyscraper",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "marketed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 16
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
       },
       {
         "form": "salesman",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 19
       }
     ],
     "type": "critical",
@@ -3239,88 +3344,67 @@
         "word_sequence": 10
       },
       {
-        "form": "demolished",
+        "form": "demolished,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "last",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
       },
       {
-        "form": "year,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 13
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 14
-      },
-      {
-        "form": "new",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 15
-      },
-      {
         "form": "skyscraper",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 13
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 14
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 15
       },
       {
         "form": "marketed",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 19
+        "word_sequence": 16
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 20
+        "word_sequence": 17
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 21
+        "word_sequence": 18
       },
       {
         "form": "salesman",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 22
+        "word_sequence": 19
       }
     ],
     "type": "critical",
@@ -3348,60 +3432,74 @@
         "word_sequence": 2
       },
       {
-        "form": "athletes,",
+        "form": "athletes",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "coach",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "recruited,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
-      },
-      {
-        "form": "manage",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 7
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "coach",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "dedicated",
-        "region": "0",
+        "form": "will",
+        "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
+      },
+      {
+        "form": "manage",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
       },
       {
         "form": "team",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 12
       }
     ],
     "type": "critical",
@@ -3492,18 +3590,11 @@
         "word_sequence": 11
       },
       {
-        "form": "dedicated",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 12
-      },
-      {
         "form": "team",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       }
     ],
     "type": "critical",
@@ -3531,74 +3622,88 @@
         "word_sequence": 2
       },
       {
-        "form": "athletes,",
+        "form": "athletes",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "dedicated",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "team",
-        "region": "critical",
+        "form": "recruited,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
-      },
-      {
-        "form": "will",
-        "region": "spillover_1",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 7
-      },
-      {
-        "form": "be",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
-        "form": "managed",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "team",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "managed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 11
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
       },
       {
         "form": "coach",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -3661,60 +3766,53 @@
         "word_sequence": 7
       },
       {
-        "form": "dedicated",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
         "form": "team",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 9
+        "word_sequence": 8
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 9
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 10
       },
       {
         "form": "managed",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 11
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 12
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 13
       },
       {
         "form": "coach",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -3742,77 +3840,77 @@
         "word_sequence": 2
       },
       {
-        "form": "international",
+        "form": "new",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "students,",
+        "form": "students",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "girls",
-        "region": "critical",
+        "form": "were",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "interviewed,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
-      },
-      {
-        "form": "occupy",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "headmaster",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "new",
-        "region": "0",
+        "form": "will",
+        "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "dormitory",
-        "region": "0",
+        "form": "visit",
+        "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "for",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
       },
       {
-        "form": "now",
+        "form": "dormitory",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -3844,7 +3942,7 @@
         "word_sequence": 2
       },
       {
-        "form": "international",
+        "form": "new",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -3865,88 +3963,60 @@
         "word_sequence": 5
       },
       {
-        "form": "the",
+        "form": "he",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "school",
+        "form": "interviewed,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "accepted,",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "girls",
+        "form": "headmaster",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 10
+        "word_sequence": 9
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 10
       },
       {
-        "form": "occupy",
+        "form": "visit",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 11
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
-      },
-      {
-        "form": "new",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 12
       },
       {
         "form": "dormitory",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
-      },
-      {
-        "form": "for",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 16
-      },
-      {
-        "form": "now",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 17
+        "word_sequence": 13
       }
     ],
     "type": "critical",
@@ -3974,91 +4044,91 @@
         "word_sequence": 2
       },
       {
-        "form": "international",
+        "form": "new",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 3
       },
       {
-        "form": "students,",
+        "form": "students",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "new",
+        "form": "were",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "dormitory",
-        "region": "critical",
+        "form": "interviewed,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
-      },
-      {
-        "form": "will",
-        "region": "spillover_1",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
-      },
-      {
-        "form": "be",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "occupied",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "dormitory",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "visited",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 12
       },
       {
-        "form": "girls",
+        "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 13
       },
       {
-        "form": "for",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 14
       },
       {
-        "form": "now",
+        "form": "headmaster",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -4090,7 +4160,7 @@
         "word_sequence": 2
       },
       {
-        "form": "international",
+        "form": "new",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -4111,102 +4181,74 @@
         "word_sequence": 5
       },
       {
-        "form": "the",
+        "form": "he",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "school",
+        "form": "interviewed,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "accepted,",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "new",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
         "form": "dormitory",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 9
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 10
       },
       {
         "form": "be",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 11
       },
       {
-        "form": "occupied",
+        "form": "visited",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
+        "word_sequence": 12
       },
       {
         "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 13
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 14
       },
       {
-        "form": "girls",
+        "form": "headmaster",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 17
-      },
-      {
-        "form": "for",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 18
-      },
-      {
-        "form": "now",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 19
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -4241,60 +4283,81 @@
         "word_sequence": 3
       },
       {
-        "form": "classes,",
+        "form": "classes",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "teacher",
-        "region": "critical",
+        "form": "were",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "designed",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "manage",
-        "region": "spillover_2",
+        "form": "carefully,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "her",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "busy",
-        "region": "0",
+        "form": "teacher",
+        "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "manage",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "her",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
       },
       {
         "form": "schedule",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -4357,7 +4420,7 @@
         "word_sequence": 7
       },
       {
-        "form": "herself,",
+        "form": "carefully,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -4399,18 +4462,11 @@
         "word_sequence": 13
       },
       {
-        "form": "busy",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 14
-      },
-      {
         "form": "schedule",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 14
       }
     ],
     "type": "critical",
@@ -4445,74 +4501,95 @@
         "word_sequence": 3
       },
       {
-        "form": "classes,",
+        "form": "classes",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "busy",
+        "form": "were",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "schedule",
-        "region": "critical",
+        "form": "designed",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "carefully,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
-      },
-      {
-        "form": "be",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "managed",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 11
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "schedule",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 12
+      },
+      {
+        "form": "managed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
       },
       {
         "form": "teacher",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -4575,7 +4652,7 @@
         "word_sequence": 7
       },
       {
-        "form": "herself,",
+        "form": "carefully,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
@@ -4589,46 +4666,53 @@
         "word_sequence": 9
       },
       {
-        "form": "teacher",
-        "region": "0",
+        "form": "schedule",
+        "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
         "form": "will",
-        "region": "0",
+        "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "manage",
-        "region": "0",
+        "form": "be",
+        "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
       },
       {
-        "form": "her",
+        "form": "managed",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 13
       },
       {
-        "form": "busy",
+        "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 14
       },
       {
-        "form": "schedule",
-        "region": "critical",
+        "form": "the",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 15
+      },
+      {
+        "form": "teacher",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
       }
     ],
     "type": "critical",
@@ -4663,60 +4747,74 @@
         "word_sequence": 3
       },
       {
-        "form": "countryside,",
+        "form": "countryside",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "queen",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "conquerored,",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
-      },
-      {
-        "form": "rule",
-        "region": "spillover_2",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 8
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "queen",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "mountain",
-        "region": "0",
+        "form": "will",
+        "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
+      },
+      {
+        "form": "rule",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
       },
       {
         "form": "territories",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 13
       }
     ],
     "type": "critical",
@@ -4772,74 +4870,53 @@
         "word_sequence": 6
       },
       {
-        "form": "grew",
+        "form": "conquerored,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "up",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "in,",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 9
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 10
-      },
-      {
         "form": "queen",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 11
+        "word_sequence": 9
       },
       {
         "form": "will",
         "region": "spillover_1",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 10
       },
       {
         "form": "rule",
         "region": "spillover_2",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 11
       },
       {
         "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 14
-      },
-      {
-        "form": "mountain",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 15
+        "word_sequence": 12
       },
       {
         "form": "territories",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 16
+        "word_sequence": 13
       }
     ],
     "type": "critical",
@@ -4874,74 +4951,88 @@
         "word_sequence": 3
       },
       {
-        "form": "countryside,",
+        "form": "countryside",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "mountain",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "territories",
+        "form": "conquerored,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "will",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "be",
+        "form": "territories",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "ruled",
+        "form": "will",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "by",
+        "form": "be",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "the",
+        "form": "ruled",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
       },
       {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
         "form": "queen",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 13
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -4997,88 +5088,67 @@
         "word_sequence": 6
       },
       {
-        "form": "grew",
+        "form": "conquerored,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "up",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "in,",
+        "form": "territories",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "the",
+        "form": "will",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "mountain",
+        "form": "be",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
-        "form": "territories",
+        "form": "ruled",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 12
       },
       {
-        "form": "will",
+        "form": "by",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 13
       },
       {
-        "form": "be",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 14
       },
       {
-        "form": "ruled",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 15
-      },
-      {
-        "form": "by",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 16
-      },
-      {
-        "form": "the",
-        "region": "0",
-        "lbr_before": false,
-        "lbr_after": false,
-        "word_sequence": 17
-      },
-      {
         "form": "queen",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 18
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -5113,53 +5183,88 @@
         "word_sequence": 3
       },
       {
-        "form": "oven,",
+        "form": "oven",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "chef",
-        "region": "critical",
+        "form": "was",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
-        "region": "spillover_1",
+        "form": "installed",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "monitor",
-        "region": "spillover_2",
+        "form": "last",
+        "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "the",
+        "form": "week,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "kitchen",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
+      },
+      {
+        "form": "chef",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "monitor",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "kitchen",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
       }
     ],
     "type": "critical",
@@ -5310,67 +5415,102 @@
         "word_sequence": 3
       },
       {
-        "form": "oven,",
+        "form": "oven",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 4
       },
       {
-        "form": "the",
+        "form": "that",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 5
       },
       {
-        "form": "kitchen",
+        "form": "was",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 6
       },
       {
-        "form": "will",
+        "form": "installed",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 7
       },
       {
-        "form": "be",
+        "form": "last",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 8
       },
       {
-        "form": "monitored",
+        "form": "week,",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 9
       },
       {
-        "form": "by",
+        "form": "the",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 10
       },
       {
-        "form": "the",
+        "form": "kitchen",
         "region": "0",
         "lbr_before": false,
         "lbr_after": false,
         "word_sequence": 11
       },
       {
+        "form": "will",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "be",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "monitored",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
         "form": "chef",
         "region": "critical",
         "lbr_before": false,
         "lbr_after": false,
-        "word_sequence": 12
+        "word_sequence": 17
       }
     ],
     "type": "critical",
@@ -5720,7 +5860,7 @@
     "item": 1004,
     "condition_voice": "nan",
     "condition_pronoun": "nan",
-    "question_attribtute": "Was the ripe eaten by a gopher?",
+    "question_attribtute": "Was the ripe banana eaten by a gopher?",
     "correct_answer": "NO"
   },
   {
@@ -5939,7 +6079,7 @@
     "item": 1008,
     "condition_voice": "nan",
     "condition_pronoun": "nan",
-    "question_attribtute": "Were the drums quite?",
+    "question_attribtute": "Were the drums quiet?",
     "correct_answer": "NO"
   },
   {

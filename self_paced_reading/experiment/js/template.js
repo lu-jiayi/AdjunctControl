@@ -148,7 +148,9 @@ $("#comprehension-question-q").text(stim.question_attribtute);
           "rt": this.response_times[i+1] - this.response_times[i], 
           "type": this.stim.type,
           "response_correct": this.response_correct ? 1 : 0,
-          "trial_no": trial_counter
+          "trial_no": trial_counter, 
+          "condition_voice": this.condition_voice,
+          "condition_pronoun": this.condition_pronoun
         }); 
       }
       trial_counter++;
