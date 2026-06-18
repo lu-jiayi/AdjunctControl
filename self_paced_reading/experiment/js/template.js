@@ -164,7 +164,6 @@ $("#comprehension-question-q").text(stim.question_attribtute);
       //if (e.preventDefault) e.preventDefault(); // I don't know what this means.
       exp.subj_data = {
         language : $("#language").val(),
-        name : $("#name").val(),
         gender : $('#gender').val(),
         tirednesslvl : $('#tirednesslvl').val(),
         age : $("#age").val()
@@ -184,7 +183,7 @@ $("#comprehension-question-q").text(stim.question_attribtute);
           "subject_information" : exp.subj_data,
           "time_in_minutes" : (Date.now() - exp.startT)/60000
       };
-      setTimeout(function() {proliferate.submit(exp.data);}, 1000);
+      proliferate.submit(exp.data);
     }
   });
 
