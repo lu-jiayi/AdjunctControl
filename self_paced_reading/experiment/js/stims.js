@@ -1,0 +1,6800 @@
+full_stimuli = [
+  {
+    "words": [
+      {
+        "form": "Consisting",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ten",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "passages,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "author",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "publish",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "a",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "book",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      }
+    ],
+    "type": "critical",
+    "trial_id": "11",
+    "item": 1,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the author publish a new book?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Consisting",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ten",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "passages",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "wrote,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "author",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "publish",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "a",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "book",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      }
+    ],
+    "type": "critical",
+    "trial_id": "12",
+    "item": 1,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the author publish a new book?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Consisting",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ten",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "passages,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "a",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "book",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "published",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "author",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "13",
+    "item": 1,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the author publish a new book?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Consisting",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ten",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "passages",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "wrote,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "a",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "book",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "published",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "author",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      }
+    ],
+    "type": "critical",
+    "trial_id": "14",
+    "item": 1,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the author publish a new book?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Containing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "all",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "marbles,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "girl",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "shake",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "jar",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "violently",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      }
+    ],
+    "type": "critical",
+    "trial_id": "21",
+    "item": 2,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the brother mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Containing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "all",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "marbles",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "bought,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "girl",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "shake",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "jar",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "violently",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      }
+    ],
+    "type": "critical",
+    "trial_id": "22",
+    "item": 2,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the brother mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Containing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "all",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "marbles,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "jar",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "violently",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "shaken",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "girl",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "23",
+    "item": 2,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the brother mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Containing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "all",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "marbles",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "bought,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "jar",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "violently",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "shaken",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "girl",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      }
+    ],
+    "type": "critical",
+    "trial_id": "24",
+    "item": 2,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the brother mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Composed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ice",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "cream",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "and",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "meringue,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "baker",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "present",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "baked",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "Alaska",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "31",
+    "item": 3,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the baker present the Baked Alaska?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Composed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ice",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "cream",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "and",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "meringue",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "prepared,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "baker",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "present",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "baked",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "Alaska",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      }
+    ],
+    "type": "critical",
+    "trial_id": "32",
+    "item": 3,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the baker present the Baked Alaska?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Composed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ice",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "cream",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "and",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "meringue,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "baked",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "Alaska",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "presented",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "baker",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "33",
+    "item": 3,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the baker present the Baked Alaska?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Composed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ice",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "cream",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "and",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "meringue",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "prepared,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "baked",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "Alaska",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "presented",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "baker",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      }
+    ],
+    "type": "critical",
+    "trial_id": "34",
+    "item": 3,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the baker present the Baked Alaska?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Derived",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ancient",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "Greek",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "texts,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "student",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "study",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "tome",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "carefully",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      }
+    ],
+    "type": "critical",
+    "trial_id": "41",
+    "item": 4,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the student study the tome poorly?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Derived",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ancient",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "Greek",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "texts",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "unearthed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "at",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "temple,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "student",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "study",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "tome",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "carefully",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      }
+    ],
+    "type": "critical",
+    "trial_id": "42",
+    "item": 4,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the student study the tome poorly?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Derived",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ancient",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "Greek",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "texts,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "tome",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "studied",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "carefully",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "student",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      }
+    ],
+    "type": "critical",
+    "trial_id": "43",
+    "item": 4,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the student study the tome poorly?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Derived",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ancient",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "Greek",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "texts",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "unearthed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "at",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "temple,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "tome",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "studied",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "carefully",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 19
+      },
+      {
+        "form": "student",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 20
+      }
+    ],
+    "type": "critical",
+    "trial_id": "44",
+    "item": 4,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the student study the tome poorly?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Running",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "on",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "clean",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "energy,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "environmentalist",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "love",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "his",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "car",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "deeply",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      }
+    ],
+    "type": "critical",
+    "trial_id": "51",
+    "item": 5,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the car mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Running",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "on",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "clean",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "energy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "harvested",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "solar",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "panels,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "environmentalist",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "love",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "his",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "car",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "deeply",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      }
+    ],
+    "type": "critical",
+    "trial_id": "52",
+    "item": 5,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the car mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Running",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "on",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "clean",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "energy,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "car",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "loved",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "deeply",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "environmentalist",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "53",
+    "item": 5,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the car mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Running",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "on",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "clean",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "energy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "harvested",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "solar",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "panels,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "car",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "loved",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "deeply",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      },
+      {
+        "form": "environmentalist",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 19
+      }
+    ],
+    "type": "critical",
+    "trial_id": "54",
+    "item": 5,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the car mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Formed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "slippery",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "red",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "clay,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "artist",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "admire",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "handmade",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "flowerpot",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      }
+    ],
+    "type": "critical",
+    "trial_id": "61",
+    "item": 6,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the customer mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Formed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "slippery",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "red",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "clay",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "bought",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "in",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "New",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "Mexico,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "artist",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "admire",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "handmade",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "flowerpot",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      }
+    ],
+    "type": "critical",
+    "trial_id": "62",
+    "item": 6,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the customer mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Formed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "slippery",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "red",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "clay,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "handmade",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "flowerpot",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "admired",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "artist",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      }
+    ],
+    "type": "critical",
+    "trial_id": "63",
+    "item": 6,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the customer mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Formed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "slippery",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "red",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "clay",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "bought",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "in",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "New",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "Mexico,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "handmade",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "flowerpot",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "admired",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 19
+      },
+      {
+        "form": "artist",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 20
+      }
+    ],
+    "type": "critical",
+    "trial_id": "64",
+    "item": 6,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the customer mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Built",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "ruins",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "town",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "hall,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "salesman",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "market",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "skyscraper",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "71",
+    "item": 7,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the salesman market the skyscraper?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Built",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "ruins",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "town",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "hall",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "demolished",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "last",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "year,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "salesman",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "market",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 19
+      },
+      {
+        "form": "skyscraper",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 20
+      }
+    ],
+    "type": "critical",
+    "trial_id": "72",
+    "item": 7,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the salesman market the skyscraper?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Built",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "ruins",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "town",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "hall,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "skyscraper",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "marketed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "salesman",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      }
+    ],
+    "type": "critical",
+    "trial_id": "73",
+    "item": 7,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the salesman market the skyscraper?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Built",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "from",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "ruins",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "of",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "town",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "hall",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "demolished",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "last",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "year,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "skyscraper",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      },
+      {
+        "form": "marketed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 19
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 20
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 21
+      },
+      {
+        "form": "salesman",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 22
+      }
+    ],
+    "type": "critical",
+    "trial_id": "74",
+    "item": 7,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the salesman market the skyscraper?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Totaling",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "eight",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "athletes,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "coach",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "manage",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "dedicated",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "team",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      }
+    ],
+    "type": "critical",
+    "trial_id": "81",
+    "item": 8,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was tennis mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Totaling",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "eight",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "athletes",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "recruited,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "coach",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "manage",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "dedicated",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "team",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "82",
+    "item": 8,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was tennis mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Totaling",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "eight",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "athletes,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "dedicated",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "team",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "managed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "coach",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      }
+    ],
+    "type": "critical",
+    "trial_id": "83",
+    "item": 8,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was tennis mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Totaling",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "eight",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "athletes",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "recruited,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "dedicated",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "team",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "managed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "coach",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "84",
+    "item": 8,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was tennis mentioned in the sentence?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Housing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "only",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "international",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "students,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "girls",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "occupy",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "dormitory",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "for",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "now",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "91",
+    "item": 9,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Were the girls mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Housing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "only",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "international",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "students",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "school",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "accepted,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "girls",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "occupy",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "dormitory",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "for",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "now",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      }
+    ],
+    "type": "critical",
+    "trial_id": "92",
+    "item": 9,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Were the girls mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Housing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "only",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "international",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "students,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "dormitory",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "occupied",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "girls",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "for",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "now",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "93",
+    "item": 9,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Were the girls mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Housing",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "only",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "international",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "students",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "school",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "accepted,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "new",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "dormitory",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "occupied",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "girls",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "for",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      },
+      {
+        "form": "now",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 19
+      }
+    ],
+    "type": "critical",
+    "trial_id": "94",
+    "item": 9,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Were the girls mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Comprising",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "six",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "difficult",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "classes,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "teacher",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "manage",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "her",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "busy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "schedule",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      }
+    ],
+    "type": "critical",
+    "trial_id": "101",
+    "item": 10,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Are the teacher's classes easy?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Comprising",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "six",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "difficult",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "classes",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "designed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "herself,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "teacher",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "manage",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "her",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "busy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "schedule",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "102",
+    "item": 10,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Are the teacher's classes easy?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Comprising",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "six",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "difficult",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "classes,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "busy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "schedule",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "be",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "managed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "teacher",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "103",
+    "item": 10,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Are the teacher's classes easy?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Comprising",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "six",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "difficult",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "classes",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "designed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "herself,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "teacher",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "will",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "manage",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "her",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "busy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "schedule",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "104",
+    "item": 10,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Are the teacher's classes easy?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Spanning",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "peaceful",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "countryside,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "queen",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "rule",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "mountain",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "territories",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      }
+    ],
+    "type": "critical",
+    "trial_id": "111",
+    "item": 11,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the queen mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Spanning",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "peaceful",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "countryside",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "grew",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "up",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "in,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "queen",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "rule",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "mountain",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "territories",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      }
+    ],
+    "type": "critical",
+    "trial_id": "112",
+    "item": 11,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the queen mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Spanning",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "peaceful",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "countryside,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "mountain",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "territories",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "will",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "be",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "ruled",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "queen",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      }
+    ],
+    "type": "critical",
+    "trial_id": "113",
+    "item": 11,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Was the queen mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Spanning",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "peaceful",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "countryside",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "she",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "grew",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "up",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "in,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "mountain",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "territories",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "will",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "be",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "ruled",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      },
+      {
+        "form": "queen",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 18
+      }
+    ],
+    "type": "critical",
+    "trial_id": "114",
+    "item": 11,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Was the queen mentioned in the sentence?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "Featuring",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "brick",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "oven,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "chef",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "monitor",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "kitchen",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      }
+    ],
+    "type": "critical",
+    "trial_id": "121",
+    "item": 12,
+    "condition_voice": "active",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the chef abandon his station?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Featuring",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "brick",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "oven",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "installed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "last",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "week,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "chef",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "monitor",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "kitchen",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      }
+    ],
+    "type": "critical",
+    "trial_id": "122",
+    "item": 12,
+    "condition_voice": "active",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the chef abandon his station?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Featuring",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "brick",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "oven,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "kitchen",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "will",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "be",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "monitored",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "chef",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      }
+    ],
+    "type": "critical",
+    "trial_id": "123",
+    "item": 12,
+    "condition_voice": "passive",
+    "condition_pronoun": "no_pronoun",
+    "question_attribtute": "Will the chef abandon his station?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "Featuring",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "brick",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "oven",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "that",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "he",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "installed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      },
+      {
+        "form": "last",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 8
+      },
+      {
+        "form": "week,",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 9
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 10
+      },
+      {
+        "form": "kitchen",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 11
+      },
+      {
+        "form": "will",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 12
+      },
+      {
+        "form": "be",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 13
+      },
+      {
+        "form": "monitored",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 14
+      },
+      {
+        "form": "by",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 15
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 16
+      },
+      {
+        "form": "chef",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 17
+      }
+    ],
+    "type": "critical",
+    "trial_id": "124",
+    "item": 12,
+    "condition_voice": "passive",
+    "condition_pronoun": "pronoun",
+    "question_attribtute": "Will the chef abandon his station?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "gopher",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "chased",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "fearful",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "rabbit",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1001",
+    "item": 1001,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Did the gopher chase the rabbit?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "professor",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "played",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "lovely",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "violin",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1002",
+    "item": 1002,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the lovely violin played by the student?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "woman",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "washed",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "dirty",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "dishes",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1003",
+    "item": 1003,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Did the woman wash the dishes?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "monkey",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ate",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "ripe",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "banana",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1004",
+    "item": 1004,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the ripe banana eaten by a gopher?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "wrecking",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "ball",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "demolished",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "decrepit",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "building",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1005",
+    "item": 1005,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the building demolished?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "horse",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "chewed",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "sweet",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "apple",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1006",
+    "item": 1006,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a whale mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "librarian",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "shelved",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "heavy",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "book",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1007",
+    "item": 1007,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the book heavy?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "child",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "played",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "loud",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "drums",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1008",
+    "item": 1008,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Were the drums quiet?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "knight",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "protected",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "guarded",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "fortress",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1009",
+    "item": 1009,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the fortress protected?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "editor",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "mentored",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "stressed",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "writer",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1010",
+    "item": 1010,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the writer relaxed?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "hammer",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "smashed",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "fragile",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "glass",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1011",
+    "item": 1011,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was the fragile glass smashed?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "basket",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "held",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "the",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "expensive",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "cheeses",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1012",
+    "item": 1012,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a backpack mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "messy",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "cleans",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "student",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "room",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1013",
+    "item": 1013,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a student mentioned?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "secret",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "protects",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "lock",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "safe",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1014",
+    "item": 1014,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a table mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "wet",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "heats",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "dryer",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "clothes",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1015",
+    "item": 1015,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a safe mentioned?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "sore",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "athlete",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "massages",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "muscles",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1016",
+    "item": 1016,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a coach mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "steady",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "sails",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "captain",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "ship",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1017",
+    "item": 1017,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a captain mentioned?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "dangerous",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "mixes",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "chemicals",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "scientist",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1018",
+    "item": 1018,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a woman mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "difficult",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "grades",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "exam",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "assistant",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      },
+      {
+        "form": "teaching",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 7
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1019",
+    "item": 1019,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was an assistant mentioned?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "valuable",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "shelf",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "jewelry",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "stores",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1020",
+    "item": 1020,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a  ball mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "broken",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "fixes",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "truck",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "engineer",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1021",
+    "item": 1021,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a engineer mentioned?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "dying",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "cable",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "computer",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "charges",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1022",
+    "item": 1022,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a cat mentioned?",
+    "correct_answer": "NO"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "acclaimed",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "honors",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "artists",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "gala",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "the",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1023",
+    "item": 1023,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a gala mentioned?",
+    "correct_answer": "YES"
+  },
+  {
+    "words": [
+      {
+        "form": "The",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 1
+      },
+      {
+        "form": "blank",
+        "region": "critical",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 2
+      },
+      {
+        "form": "the",
+        "region": "spillover_1",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 3
+      },
+      {
+        "form": "painter",
+        "region": "spillover_2",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 4
+      },
+      {
+        "form": "canvas",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 5
+      },
+      {
+        "form": "admires",
+        "region": "0",
+        "lbr_before": false,
+        "lbr_after": false,
+        "word_sequence": 6
+      }
+    ],
+    "type": "filler",
+    "trial_id": "1024",
+    "item": 1024,
+    "condition_voice": "nan",
+    "condition_pronoun": "nan",
+    "question_attribtute": "Was a basketball mentioned?",
+    "correct_answer": "NO"
+  }
+]
