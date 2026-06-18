@@ -184,7 +184,7 @@ $("#comprehension-question-q").text(stim.question_attribtute);
           "subject_information" : exp.subj_data,
           "time_in_minutes" : (Date.now() - exp.startT)/60000
       };
-      setTimeout(function() {turk.submit(exp.data);}, 1000);
+      setTimeout(function() {proliferate.submit(exp.data);}, 1000);
     }
   });
 
