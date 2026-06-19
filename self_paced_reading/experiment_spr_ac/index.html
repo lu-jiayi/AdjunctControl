@@ -62,7 +62,7 @@
 		<h3>Instructions</h3>
     <p>On the following pages, you will always see sentences masked with dashes (-). To read each sentence, please press the space bar which will reveal the next word. </p>
 		
-    <p> Some of the sentences may sound fully grammatical, some may sound ungrammatical, and some are in between. </p>
+    <p> Some of the sentences may sound fully grammatical, some may sound totally unacceptable, and some are in between. </p>
 
   	<p><strong>Important</strong>: Please do not rush through the sentences. You should read at your natural pace.</p>
 		
@@ -73,8 +73,10 @@
 
 		<h3>Instructions</h3>
   
-    <p>Once you've read each sentence, please answer the yes/no question that will appear on the screen. Answering these questions correctly shows that you are paying attention in the experiment.</p>
+    <p>Once you've read each sentence, you will be asked to rate how acceptable and natural the sentence sounds to you. </p>
 		
+    <p><strong>Important</strong>: Rely on your intuition as a native speaker! Do not use school grammar! </p>
+
     <input type="button" class="button" value="Continue" onclick="exp.go();">
 		
   </div>
@@ -82,7 +84,7 @@
 
 		<h3>Instructions</h3>
 
-		<p><strong>Important</strong>: Please try to complete the experiment in one session without any interruptions. When you are ready, click the button below to start!</p>
+		<p>Please try to complete the experiment in one session without any interruptions. When you are ready, click the button below to start!</p>
 		
     <input type="button" class="button" value="Start Experiment" onclick="exp.go();">
 		
@@ -92,12 +94,29 @@
 		<p>Please read the following sentence by pressing the space bar to reveal each word.</p>
 		<p style="font-family:monospace; margin-top:145px;font-size:18px;" id="stimulus-sentence"></p>
 		
-    <div id="comprehension-question">
-			
-			<p id="comprehension-question-q" class="question"></p>
-      <input type="button" value="Yes" id="test-response-1" class="response-buttons button">
-      <input type="button" value="No" id="test-response-2" class="response-buttons button">
-		</div>
+    <div id="acceptability-judgment" style="display:none; margin-top:60px;">
+
+  <p class="question">
+    How acceptable does this sentence sound?
+  </p>
+
+  <table id="slider_table" class="slider_table">
+    <tr>
+      <td class="left">totally unacceptable</td>
+      <td colspan="2">
+        <div id="single_slider" class="slider"></div>
+      </td>
+      <td class="right">totally acceptable</td>
+    </tr>
+  </table>
+
+  <input type="button" value="Continue" class="response-buttons button">
+
+  <div class="err" style="display:none;">
+    Please rate the sentence using the slider bar.
+  </div>
+
+</div>
 		
 		
   </div>
